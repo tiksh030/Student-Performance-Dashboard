@@ -1,5 +1,5 @@
 # Student-Performance-Dashboard
-🧾 Project Overview
+**🧾 Project Overview**
 
 This project is an **interactive Excel dashboard** that helps to analyze and visualize student academic and demographic data.
 It gives quick insights into student performance, attendance, and department trends.
